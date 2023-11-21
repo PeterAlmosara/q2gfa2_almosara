@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+}
+html, body{width: 100vw;}
+#ved{
+    width: 100vw;
+    height: 80vh;
+    object-fit: cover;
+    position: fixed;
+    z-index: -1;
+}
+nav h1{
+    float: right;
+    text-decoration: ;
+    margin-top: 20px;
+}
+header img{
+    height: 7vh;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
+header{
+    background-color: rgb(198, 177, 190);
+    height: 10vh;
+}
+
+footer {
+
+}
+.icon{
+
+    bottom: 5px;
+    background: url(/img/sprite3.png) no-repeat;
+    width: 66px;
+    height: 66px;   
+}
+#soundcloud{
+
+    background-position: -587px -72px;
+}
+#ig{
+    background-position: -290px -221px;
+}
+#vine{
+    background-position: -513px -72px;
+}
+#wifi{
+    background-position: -141px -72px;
+}
